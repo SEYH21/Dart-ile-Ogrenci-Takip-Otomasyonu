@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../New"
+		},
+		{
+			"path": "../../flutter_application_1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New"
+	}
+}
